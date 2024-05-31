@@ -1,0 +1,506 @@
+#logo{
+    /*Logo Website */
+    position: absolute;
+width: 309px;
+height: 97px;
+left: 7%;
+top: 0%;
+
+}
+#header{
+    
+position: fixed;
+width: 100%;
+height: 15%;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#home1{
+position: absolute;
+width: 106px;
+height: 46px;
+left: 31%;
+top: 15%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #000000;
+}
+
+#home2{
+position: absolute;
+width: 106px;
+height: 46px;
+left: 31%;
+top: 15%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #8D021F;
+
+}
+#products1{
+position: absolute;
+width: 167px;
+height: 46px;
+left: 43%;
+top: 15%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+text-decoration: none;
+
+
+
+color: #000000;
+
+}
+
+
+    #products1:hover{
+        
+        color: #8D021F;
+        
+        color: #000000;
+        
+        }
+.buttonhover:hover{
+    color: #8D021F;
+}
+
+#products2{
+    position: absolute;
+width: 167px;
+height: 46px;
+left: 43%;
+top: 15%;
+
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #8D021F;
+
+}
+#gallery1{
+position: absolute;
+width: 226px;
+height: 109px;
+left: 59%;
+top: 15%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #000000;
+
+}
+
+#gallery2{
+    position: absolute;
+    width: 226px;
+    height: 109px;
+    left: 59%;
+    top: 15%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 47px;
+    
+    color: #8D021F;
+    
+    
+    }
+#events1{
+    
+position: absolute;
+width: 167px;
+height: 46px;
+left: 73%;
+top: 15%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #000000;
+}
+#events2{
+    
+    position: absolute;
+    width: 167px;
+    height: 46px;
+    left: 73%;
+    top: 15%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 47px;
+    
+    color: #8D021F;
+    }
+#member1{
+position: absolute;
+width: 167px;
+height: 46px;
+left: 86%;
+top: 15%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #000000;
+}
+#member2{
+    position: absolute;
+    width: 167px;
+    height: 46px;
+    left: 86%;
+    top: 15%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 47px;
+    
+    color: #8D021F;
+}
+#footer{
+position: absolute;
+width: 100%;
+height: 108px;
+left: 0px;
+top: 1064px;
+
+background: #D9D9D9;
+}
+#logofooter{
+    position: absolute;
+    height: 97px;
+    width: 209px;
+    left: 3.19%;
+    right: 75.35%;
+    top: 0%;
+    bottom: 21.77%;
+}
+#logobandai{
+    position: absolute;
+width: 78px;
+height: 46px;
+
+left: 63.4%;
+right: 31.18%;
+top: 29.52%;
+bottom: 23.39%;
+
+background: url(bandailogo.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+#logohottoys{
+    position: absolute;
+width: 65px;
+height: 44px;
+left: 69.93%;
+right: 25.56%;
+top: 28.71%;
+bottom: 25.81%;
+
+background: url(hottoys.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+#logominigt{
+    position: absolute;
+width: 65px;
+height: 61px;
+left: 75.56%;
+right: 19.93%;
+top: 21.45%;
+bottom: 19.35%;;
+
+background: url(logo_new.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+#footertext{
+    position: absolute;
+width: 222px;
+height: 21px;
+left: 81.46%;
+right: 3.12%;
+top: 27.58%;
+bottom: 35.48%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+#background1{
+    position: absolute;
+width: 100%;
+height: 822px;
+left: 0px;
+top: 0px;
+}
+#eclipse{
+    position: absolute;
+width: 1457px;
+height: 1439px;
+left: -799px;
+top: -307px;
+border-radius: 100%;
+background: #8D021F;
+}
+#description{
+    position: absolute;
+width: 532px;
+height: 141px;
+left: 70px;
+top: 307px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+
+color: #FFFFFF;
+}
+#itembackground{
+    position: absolute;
+width: 100%;
+height: 516px;
+left: 0px;
+top: 616px;
+
+
+background: #FFFFFF;
+}
+
+.button1{
+    font-style:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+#kotakitem1 {
+
+
+position: relative;
+width: 428px;
+height: 315px;
+left: 24px;
+top: 68px;
+
+background: #D9D9D9;
+}
+#infoitem1{
+    position: absolute;
+width: 385px;
+height: 30px;
+left: 46px;
+top: 305px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+color: #8D021F;
+} */
+
+#producttext{
+
+    position: absolute;
+    left: 30.62%;
+    right: 30.62%;
+    top: -5%;
+
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+text-align: center;
+
+color: #8D021F;
+}
+
+#kotakitem1{
+    position: absolute;
+width: 428px;
+height: 315px;
+left: 5%;
+top: 75.8%;
+background: #D9D9D9;
+
+}
+#kotakitem2{
+    position: absolute;
+width: 428px;
+height: 315px;
+top: 75.8%;
+left: 50%;
+transform: translateX(-50%);
+
+
+background: #D9D9D9;
+}
+#kotakitem3{
+    position: absolute;
+    width: 428px;
+    height: 315px;
+    top: 75.8%;
+    right:5%;
+    background: #D9D9D9;
+}
+#infoitemhome1{
+    position: absolute;
+left: 5.14%;
+right: 4.91%;
+top: 71.24%;
+bottom: 15.24%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+color: #8D021F;
+
+}
+#itemhome1{
+    position: absolute;
+    height: 205px;
+width: 385px;
+left: 22px;
+top: 23px;
+border-radius: 0px;
+
+left: 5.14%;
+right: 4.91%;
+top: 7.3%;
+bottom: 27.62%;
+}
+#kotakread{
+    height: 26px;
+width: 179px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+position: absolute;
+left: 29.21%;
+right: 28.97%;
+top: 87.62%;
+bottom: 4.13%;
+background: #8D021F;
+}
+#read{
+    position: absolute;
+left: 33.52%;
+right: 34.08%;
+top: -25.38%;
+bottom: 15.38%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+
+color: #D9D9D9;
+}
+#home2 a{
+ 
+    text-decoration: none;
+    
+    
+    
+    color: #8D021F;
+    
+    }
+#products1 a{
+ 
+    text-decoration: none;
+    
+    
+    
+    color: #000000;
+    
+    }
+#gallery1 a{
+ 
+        text-decoration: none;
+        
+        
+        
+        color: #000000;
+        
+        }
+#events1 a{
+ 
+            text-decoration: none;
+            
+            
+            
+            color: #000000;
+            
+            }
+#member1 a{
+ 
+                text-decoration: none;
+                
+                
+                
+                color: #000000;
+                
+                }
+            
+            
